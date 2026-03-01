@@ -1,6 +1,6 @@
 # WCAG 2.2 MCP Server
 
-This is only a proof of concept creatd using Claude. Anyone is welcome to fix errors, expand, and improve from this.
+This is only a proof of concept creatd using Claude. Anyone is welcome to fix errors, expand, and improve from this.  
 An MCP (Model Context Protocol) server that gives AI deep knowledge of **WCAG 2.2 Level A and AA** — covering all 56 success criteria.  
 
 ## Tools Available
